@@ -52,6 +52,17 @@ My background includes working with **Python, SQL, PyTorch, TensorFlow, Hugging 
 
 ## 📌 Projects  
 
+### [🤖 RAG Video Q&A with FAISS and Cerebras](https://huggingface.co/spaces/RebanMark/RAG-powered-by-FAISS-and-OpenRouter)
+  
+**Tech:** Python, RAG, FAISS, NLP, Cerebras LLM, Gradio  
+
+- Built a local Retrieval-Augmented Generation (RAG) pipeline for video transcripts
+- Implemented FAISS for efficient in-memory vector search with multilingual embeddings
+- Integrated Cerebras Cloud LLM for immediate, context-grounded answers
+- Deployed a full web interface natively to Hugging Face Spaces
+
+---
+
 ### [🧠 Advanced BERT Framework for Emotion Detection](https://github.com/RebanMark/BERT-Emotion-Classification)
   
 **Tech:** Python, NLP, PyTorch, Hugging Face  
