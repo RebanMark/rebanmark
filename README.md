@@ -52,7 +52,7 @@ My background includes working with **Python, SQL, PyTorch, TensorFlow, Hugging 
 
 ## 📌 Projects  
 
-### [🤖 RAG Video Q&A with FAISS and Cerebras]([https://huggingface.co/spaces/RebanMark/RAG-powered-by-FAISS-and-OpenRouter](https://github.com/RebanMark/RAG-powered-by-FAISS-and-OpenRouter))
+### [🤖 RAG Video Q&A with FAISS and Cerebras](https://github.com/RebanMark/RAG-powered-by-FAISS-and-OpenRouter)
   
 **Tech:** Python, RAG, FAISS, NLP, Cerebras LLM, Gradio  
 
