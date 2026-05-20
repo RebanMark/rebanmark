@@ -14,6 +14,16 @@ My background includes working with **Python, SQL, PyTorch, TensorFlow, Hugging 
 
 ## 💼 Internship Experience  
 
+
+### **Artificial Intelligence Intern**  
+**LuminoGrid Infotech** — Remote  
+*Aril 2026 – May 2026*
+
+- Built a RAGpipeline using FAISS, Sentence Transformers, and Cerebras LLM for hallucination-free answers from video transcripts.  
+- Designed asliding window chunking strategy with multilingual MiniLM embeddings for cross-lingual semantic retrieval.  
+- Optimized FAISS vector search with cosine similarity and confidence scoring, achieving low-latency top-3 document retrieval.
+- DeployedaGradio interface on Hugging Face Spaces with real-time source citations and timestamp-level attribution.
+
 ### **Python / MySQL Intern**  
 **Live Stream Technologies** — Coimbatore  
 *June 2022 – July 2022*
